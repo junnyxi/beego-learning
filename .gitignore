@@ -1,4 +1,4 @@
 stupdate.tmp
 apiproj
-*.log
+logs/*
 *.swp
