@@ -1,0 +1,5 @@
+2017/01/04 15:27:52 [I] [asm_amd64.s:1998] http server Running on http://:8080
+2017/01/04 15:28:05 [I] [user.go:18] >>> get user info 
+2017/01/04 15:28:05 [D] [server.go:2081] |      127.0.0.1|[42m 200 [0m|    353.193µs|   match|[44m GET     [0m /v1/p/user/info   r:/v1/p/user/info
+2017/01/04 15:28:07 [I] [user.go:18] >>> get user info 
+2017/01/04 15:28:07 [D] [server.go:2081] |      127.0.0.1|[42m 200 [0m|    471.344µs|   match|[44m GET     [0m /v1/p/user/info   r:/v1/p/user/info
